@@ -35,7 +35,6 @@ redirect_from:
 
 **Mercer** (Seoul Office) · Seoul, Republic of Korea
 <br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
-*A global leader in HR consulting, a business of Marsh McLennan (NYSE: MMC)*
 
 - Conducted compensation benchmarking and statistical analysis across ~300 domestic and international firms to derive industry-level average wage estimates.
 - Researched HR policies of multinational corporations and synthesized findings into structured Compensation Reports for client delivery.

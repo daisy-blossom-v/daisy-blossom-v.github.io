@@ -30,7 +30,6 @@ I am an HR professional with over five years of experience in data-driven human 
 
 **Mercer** (Seoul Office) · Seoul, Republic of Korea
 <br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
-*A global leader in HR consulting, a business of Marsh McLennan*
 
 - Compensation benchmarking and statistical analysis across ~300 firms
 - Structured compensation report delivery for multinational clients
