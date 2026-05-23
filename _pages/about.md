@@ -7,23 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an HR professional with over five years of experience in data-driven human resource management. My work spans compensation analysis, performance evaluation, talent acquisition, and organizational culture — with a focus on applying quantitative methods to workforce operations.
+I am an HR professional with over five years of experience designing and evaluating people systems at scale. At Shinsegae I&C, I lead employee-facing HR platform design, AI-integrated workforce programs, and data-driven compensation and organizational diagnostics for ~1,400 employees. My research interests lie at the intersection of human-computer interaction, human-AI collaboration, and sociotechnical systems in the workplace — understanding how people and AI tools shape each other in organizational contexts.
 
 ## Research Interests
 
-- **Human-Computer Interaction** · **User Experience Research**
-- **Human-AI Collaboration and Teaming** · **Human-Centered AI**
-- **Sociotechnical Systems in the Workplace** · **Enterprise Information Systems**
-- **AI Adoption in Work Systems** · **People Analytics**
+- Human-Computer Interaction
+- User Experience Research
+- Human-AI Collaboration and Teaming
+- Human-Centered AI
+- Sociotechnical Systems in the Workplace
+- Enterprise Information Systems
+- AI Adoption in Work Systems
+- People Analytics
 
-## Independent Research
-
-**Documentation by Demonstration: An Empirical Study of AI Agent Instruction Files in Public Software Repositories**
-<br>*Manuscript in preparation, 2026*
-
-- Across 4,664 AI agent instruction files from 4,485 public repositories, 49.5% of content consists of code examples rather than declarative rules, consistent across tools (CLAUDE.md, Cursor, Copilot) and team types.
-- Paired comparison of 4,094 AI-instruction and README documents shows AI-facing files use imperatives at 6× the rate of README (paired Wilcoxon, *r* = 0.83).
-- Longitudinal tracking of 599 repositories shows README files grew on average 37% in the year following AI instruction file adoption, indicating an additive rather than substitutive documentation layer.
+See my [Research page]({{ site.baseurl }}/research/) for current work.
 
 ## Professional Experience
 
