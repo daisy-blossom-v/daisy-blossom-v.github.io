@@ -21,7 +21,6 @@ AI in Work and Human Resource Management; Human-AI Collaboration; People Analyti
 |---|---|
 | **Ewha Womans University** | Seoul, Republic of Korea |
 | B.A. in Economics and Chinese Language & Literature (Double Major) | Mar. 2016 – Aug. 2020 |
-| GPA: 3.65 / 4.50 | |
 | **Fudan University** | Shanghai, China |
 | Exchange Student | Sep. 2017 – Jan. 2018 |
 

@@ -27,8 +27,6 @@ I am an HR practitioner-researcher based in Seoul. At Shinsegae I&C, I design an
 
 - **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026.
 
-See my [Research page]({{ site.baseurl }}/research/) for a longer write-up of this work.
-
 ## Research Experience
 
 **Accountability in Human-AI Collaboration** · Apr. 2026 – Jul. 2026
@@ -59,7 +57,6 @@ See my [Research page]({{ site.baseurl }}/research/) for a longer write-up of th
 |---|---|
 | **Ewha Womans University** | Seoul, Republic of Korea |
 | B.A. in Economics and Chinese Language & Literature (Double Major) | Mar. 2016 – Aug. 2020 |
-| GPA: 3.65 / 4.50 | |
 | **Fudan University** | Shanghai, China |
 | Exchange Student | Sep. 2017 – Jan. 2018 |
 
