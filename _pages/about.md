@@ -7,35 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-I am an HR professional with over five years of experience designing and evaluating people systems at scale. At Shinsegae I&C, I lead employee-facing HR platform design, AI-integrated workforce programs, and data-driven compensation and organizational diagnostics for ~1,400 employees. My research interests lie at the intersection of human-computer interaction, human-AI collaboration, and sociotechnical systems in the workplace — understanding how people and AI tools shape each other in organizational contexts.
+I am an HR practitioner-researcher based in Seoul. At Shinsegae I&C, I design and evaluate people systems for approximately 1,400 employees — an employee-facing mobile HR platform, an AI-supported onboarding curriculum, and workforce analytics that inform compensation and organizational decisions. My research studies how AI is absorbed into work and human resource management: how people and AI systems divide labor, and who remains accountable for the results.
+
+## News
+
+- **Aug. 2026** — Our workshop paper, *"Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review,"* was accepted to the **"Nobody Did This"** workshop at CSCW 2026.
+- **Jun. 2026** — Interviewed by *HR Insight* on employee autonomy and employee-centered work design. [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
 ## Research Interests
 
-- Human-Computer Interaction
-- User Experience Research
-- Human-AI Collaboration and Teaming
-- Human-Centered AI
-- Sociotechnical Systems in the Workplace
-- Enterprise Information Systems
-- AI Adoption in Work Systems
+- AI in Work and Human Resource Management
+- Human-AI Collaboration
 - People Analytics
+- AI Accountability
 
-See my [Research page]({{ site.baseurl }}/research/) for current work.
+## Publications
+
+**Workshop Papers**
+
+- **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026.
+
+See my [Research page]({{ site.baseurl }}/research/) for a longer write-up of this work.
+
+## Research Experience
+
+**Accountability in Human-AI Collaboration** · Apr. 2026 – Jul. 2026
+
+- Analyzed 4,664 AI instruction files from 4,485 GitHub repositories; compared 499 instruction–README pairs using LLM-assisted analysis, with 150 CONTRIBUTING–README pairs as a human-facing documentation baseline.
+- Manually validated 323 classifier-flagged items across 60 document pairs; confirmed that 57% of this validation set contained both behavioral constraints and project judgments absent from the corresponding README.
+- Proposed the *Instruction Context Capsule*, a design concept for surfacing relevant, versioned AI instructions to support contributor endorsement and reviewer scrutiny.
+- Discussed implications for contribution attribution and employee performance evaluation, emphasizing selective visibility of instruction context rather than workplace surveillance.
 
 ## Professional Experience
 
 **Shinsegae I&C** · Seoul, Republic of Korea
 <br>HR Specialist, Human Resources Team · Feb. 2022 – Present
 
-- **Employee-Facing HR System Design:** Led user experience analysis with ~1,400 employees across heterogeneous roles to inform the design of the company's mobile HR platform; collaborated with HR-system engineering team on feature prioritization, information architecture, and user-flow decisions for core modules (attendance requests, leave balance tracking, benefits enrollment); translated workforce diversity into concrete interface and access-pattern requirements.
-- **AI-Integrated Workforce Programs:** Co-designed and deployed an AI-augmented onboarding curriculum for new-hire cohorts (2026 rollout), pairing structured AI tutoring with cohort-based learning across employees with heterogeneous prior expertise; leading post-deployment evaluation through paired survey and usage data.
-- **Workforce Analytics & Compensation:** Administered end-to-end payroll cycles (~1,400 employees) in SAP and conducted quantitative analysis of workforce cost structure; evidence-based restructuring drove a 10% reduction in benefits expenditure and contributed to a 20% reduction in total personnel expenses against organizational targets.
-- **Organizational Diagnostics & Intervention Design:** Designed selective working-hours and compensatory leave programs (100% adoption excl. field/sales) and a paired long-hours reduction campaign; annual organizational health surveys showed ~20% reduction in overtime pay and a 13% decrease in overtime hours (2024).
+- **AI-Supported Workplace Learning:** Co-designed and deployed a new-hire onboarding curriculum combining structured AI tutoring with cohort-based learning (2026 rollout); leading post-deployment evaluation using survey and usage data.
+- **Employee-Centered Systems Design:** Led user-needs analysis for a mobile HR platform serving approximately 1,400 employees; collaborated with engineers on feature priorities, information architecture, and user flows for attendance, leave, and benefits.
+- **Workforce Analytics:** Managed SAP HR data for approximately 1,400 employees across payroll, compensation, attendance, and benefits; conducted workforce cost-structure analyses to inform organizational restructuring.
+- **Industry Interview:** Represented the company in an *HR Insight* feature on employee autonomy and employee-centered work design, including feedback-driven improvements to digital HR systems (Jun. 2026). [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
 **Mercer** · Seoul, Republic of Korea
 <br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
 
-- Conducted compensation benchmarking and statistical analysis across ~300 domestic and international firms to derive industry-level wage estimates; synthesized multinational HR policy research into client-ready Compensation Reports.
+- Conducted compensation benchmarking and statistical analysis across approximately 300 domestic and international firms; synthesized cross-national HR policy research into client compensation reports.
 
 ## Education
 
@@ -45,19 +61,19 @@ See my [Research page]({{ site.baseurl }}/research/) for current work.
 | B.A. in Economics and Chinese Language & Literature (Double Major) | Mar. 2016 – Aug. 2020 |
 | GPA: 3.65 / 4.50 | |
 | **Fudan University** | Shanghai, China |
-| Exchange Student, School of Economics | Sep. 2017 – Jan. 2018 |
+| Exchange Student | Sep. 2017 – Jan. 2018 |
 
-## Technical Skills
-
-| | |
-|---|---|
-| **Programming / Data** | Python, SQL |
-| **Statistical Methods** | Regression analysis, hypothesis testing, survey analysis |
-| **UX Research Methods** | User interviews, requirements analysis, cross-functional collaboration with engineering teams |
-
-## Certifications, Training & Awards
+## Research Methods & Technical Skills
 
 | | |
 |---|---|
-| **2025** | Three Presidential Commendations (organizational): Work-Life Balance, Top Employment Enterprise, and Family-Friendly Excellent Enterprise Awards |
+| **Research Methods** | Document analysis; manual validation of LLM-assisted coding; survey analysis; user interviews |
+| **Quantitative Analysis** | Regression analysis; hypothesis testing; compensation benchmarking |
+| **Programming & Data** | Python; SQL; SAP HR data management |
+| **Systems Design** | Requirements analysis; information architecture; user-flow design |
+
+## Selected Training
+
+| | |
+|---|---|
 | **2022** | SQL Expert Course, Shinsegae I&C; Labor Management Program, JoongAng Economy HR Institute |

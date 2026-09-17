@@ -5,7 +5,23 @@ permalink: /research/
 author_profile: true
 ---
 
-## Half of What's in CLAUDE.md Isn't Even Rules: A Look at 4,664 AI Instruction Files
+## Publications
+
+**Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026.
+
+---
+
+## Who Told the Agent What to Do?
+
+When an AI agent writes code, the instruction file that shaped its behavior is rarely visible to the people who review, credit, or evaluate the result. This project asks what is actually in those files, and what their invisibility costs accountability.
+
+We analyzed 4,664 AI instruction files from 4,485 GitHub repositories and compared 499 instruction–README pairs using LLM-assisted analysis, with 150 CONTRIBUTING–README pairs as a human-facing documentation baseline. We then manually validated 323 classifier-flagged items across 60 document pairs, and confirmed that 57% of that validation set contained both behavioral constraints and project judgments absent from the corresponding README.
+
+From this, we propose the **Instruction Context Capsule**: a design concept for surfacing relevant, versioned AI instructions at the moment of review, so contributors can endorse the context they worked under and reviewers can scrutinize it. We discuss what this implies for contribution attribution and employee performance evaluation, and argue for selective visibility of instruction context rather than workplace surveillance.
+
+---
+
+## Write-up: Half of What's in CLAUDE.md Isn't Even Rules: A Look at 4,664 AI Instruction Files
 
 If you've used Claude Code or Cursor, you've probably written a `CLAUDE.md` or `.cursorrules` file. Blog posts call them "instructions," "rules," "policies." The tool vendors document them as ways to tell the AI how to behave.
 

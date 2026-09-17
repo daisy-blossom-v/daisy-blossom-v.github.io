@@ -9,60 +9,71 @@ redirect_from:
 
 **[Download CV (PDF)]({{ site.baseurl }}/files/Harin_Lee_Resume.pdf)**
 
+## Research Interests
+
+AI in Work and Human Resource Management; Human-AI Collaboration; People Analytics; AI Accountability
+
+---
+
 ## Education
 
 | | |
 |---|---|
 | **Ewha Womans University** | Seoul, Republic of Korea |
-| B.A. in Chinese Language & Literature | Mar. 2016 – Aug. 2020 |
-| B.A. in Economics (Double Major) | GPA: 3.65 / 4.50 |
+| B.A. in Economics and Chinese Language & Literature (Double Major) | Mar. 2016 – Aug. 2020 |
+| GPA: 3.65 / 4.50 | |
+| **Fudan University** | Shanghai, China |
+| Exchange Student | Sep. 2017 – Jan. 2018 |
+
+---
+
+## Workshop Papers
+
+- **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026.
+
+---
+
+## Research Experience
+
+**Accountability in Human-AI Collaboration** · Apr. 2026 – Jul. 2026
+
+- Analyzed 4,664 AI instruction files from 4,485 GitHub repositories; compared 499 instruction–README pairs using LLM-assisted analysis, with 150 CONTRIBUTING–README pairs as a human-facing documentation baseline.
+- Manually validated 323 classifier-flagged items across 60 document pairs; confirmed that 57% of this validation set contained both behavioral constraints and project judgments absent from the corresponding README.
+- Proposed the *Instruction Context Capsule*, a design concept for surfacing relevant, versioned AI instructions to support contributor endorsement and reviewer scrutiny.
+- Discussed implications for contribution attribution and employee performance evaluation, emphasizing selective visibility of instruction context rather than workplace surveillance.
 
 ---
 
 ## Professional Experience
 
 **Shinsegae I&C** · Seoul, Republic of Korea
-<br>HR Specialist (Manager), Human Resources Team · Feb. 2022 – Present
-*IT solutions & services firm · ~KRW 700B revenue · ~1,400 employees*
+<br>HR Specialist, Human Resources Team · Feb. 2022 – Present
 
-- **Data-driven Compensation Analysis**: Administered end-to-end payroll cycles (salary, bonus, signing/retention bonuses, severance) using SAP; performed quantitative analysis of workforce cost structure, achieving a 10% reduction in benefits expenditure through evidence-based restructuring.
-- **HR Dashboard Development**: Designed and built internal HR analytics dashboards to visualize workforce metrics, enabling data-informed decision-making across the HR team.
-- **Performance Evaluation & Organizational Metrics**: Designed and operated KPI evaluation frameworks for department heads; identified inefficiencies through HR cost analysis, contributing to a 20% reduction in total personnel expenses against organizational targets.
-- **Flexible Work System Design**: Planned and operationalized selective working-hours and compensatory leave programs; achieved 100% adoption (excluding field/sales) and reduced overtime compensation costs by ~20% annually. Administered ~12 system improvement items per year in HR information systems.
-- **Talent Acquisition & Learning**: Directed annual new-hire recruitment strategy and on-demand experienced-hire pipelines; designed and delivered onboarding programs (~6 cohorts/year), including AI-integrated onboarding curriculum in 2026.
-- **Regulatory Compliance & Government Relations**: Led 2025 Ministry of Employment and Labor audit response, resulting in zero violations; authored formal compliance reports and coordinated on-site inspections leading to three Presidential Commendations (Work-Life Balance, Top Employment, Family-Friendly Excellent Enterprise).
-- **Organizational Culture Diagnostics**: Conducted annual organizational health surveys; designed and executed a long-hours reduction campaign that achieved a **13% decrease in overtime hours** (2024).
+- **AI-Supported Workplace Learning:** Co-designed and deployed a new-hire onboarding curriculum combining structured AI tutoring with cohort-based learning (2026 rollout); leading post-deployment evaluation using survey and usage data.
+- **Employee-Centered Systems Design:** Led user-needs analysis for a mobile HR platform serving approximately 1,400 employees; collaborated with engineers on feature priorities, information architecture, and user flows for attendance, leave, and benefits.
+- **Workforce Analytics:** Managed SAP HR data for approximately 1,400 employees across payroll, compensation, attendance, and benefits; conducted workforce cost-structure analyses to inform organizational restructuring.
+- **Industry Interview:** Represented the company in an *HR Insight* feature on employee autonomy and employee-centered work design, including feedback-driven improvements to digital HR systems (Jun. 2026). [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
-**Mercer** (Seoul Office) · Seoul, Republic of Korea
+**Mercer** · Seoul, Republic of Korea
 <br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
 
-- Conducted compensation benchmarking and statistical analysis across ~300 domestic and international firms to derive industry-level average wage estimates.
-- Researched HR policies of multinational corporations and synthesized findings into structured Compensation Reports for client delivery.
+- Conducted compensation benchmarking and statistical analysis across approximately 300 domestic and international firms; synthesized cross-national HR policy research into client compensation reports.
 
 ---
 
-## Technical Skills
+## Research Methods & Technical Skills
 
-| Category | Details |
+| | |
 |---|---|
-| Programming / Data | Python, SQL |
-| Tools | SAP, MS Office (Excel, PowerPoint) |
-| Languages | Korean (native), English (advanced — OPIC IH), Chinese (advanced — HSK Level 5) |
+| **Research Methods** | Document analysis; manual validation of LLM-assisted coding; survey analysis; user interviews |
+| **Quantitative Analysis** | Regression analysis; hypothesis testing; compensation benchmarking |
+| **Programming & Data** | Python; SQL; SAP HR data management |
+| **Systems Design** | Requirements analysis; information architecture; user-flow design |
 
 ---
 
-## Certifications & Training
+## Selected Training
 
-- SQL Expert Course, Shinsegae I&C (2022)
-- Labor Management Master Program, JoongAng Economy HR Institute (2022)
-- Year-End Tax Settlement Practicum, CFO Academy (2023)
-- Finance Professional Development Course, Shinsegae I&C (2023)
-- Accounting Management Level 2 (KICPA) (2023)
-
----
-
-## Awards & Recognition
-
-- Presidential Commendation — Work-Life Balance Award (2025)
-- Presidential Commendation — Top Employment Enterprise Award (2025)
-- Presidential Commendation — Family-Friendly Excellent Enterprise Award (2025)
+| | |
+|---|---|
+| **2022** | SQL Expert Course, Shinsegae I&C; Labor Management Program, JoongAng Economy HR Institute |
