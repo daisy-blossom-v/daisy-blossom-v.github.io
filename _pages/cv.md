@@ -26,7 +26,7 @@ AI in Work and Human Resource Management; Human-AI Collaboration; People Analyti
 
 ---
 
-## Workshop Papers
+## Publications
 
 - **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026.
 

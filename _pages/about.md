@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an HR practitioner-researcher based in Seoul. At Shinsegae I&C, I design and evaluate people systems for approximately 1,400 employees — an employee-facing mobile HR platform, an AI-supported onboarding curriculum, and workforce analytics that inform compensation and organizational decisions. My research studies how AI is absorbed into work and human resource management: how people and AI systems divide labor, and who remains accountable for the results.
+I study how AI is reshaping work — how labor gets divided between people and AI systems, and who remains accountable for what those systems produce.
+
+I come to this question from inside the organizations where it actually plays out. Since 2022 I have designed and evaluated people systems at Shinsegae I&C: a mobile HR platform used by roughly 1,400 employees, an AI-supported onboarding program now in its first cohort, and the workforce analytics behind compensation and restructuring decisions. Building these systems convinced me that the hard problems are rarely technical ones. They appear when a tool quietly changes who is visible, who is credited, and who answers for the outcome.
+
+My current research follows that thread into software teams. In work accepted to the *"Nobody Did This"* workshop at CSCW 2026, we analyzed 4,664 AI instruction files from 4,485 GitHub repositories and compared them against the human-facing documentation in the same projects. In a manually validated subset, 57% of flagged items carried behavioral constraints and project judgments that appeared nowhere in the repository's README — context that shapes what an agent produces but stays invisible to whoever reviews and evaluates the result. We propose the *Instruction Context Capsule*, a design concept for surfacing that context at review time without turning it into surveillance.
+
+I work across the methods this kind of question demands — survey and interview work, quantitative analysis of organizational data, and computational document analysis — from the vantage point of someone who helps build the systems I study.
 
 ## News
 
@@ -22,8 +28,6 @@ I am an HR practitioner-researcher based in Seoul. At Shinsegae I&C, I design an
 - AI Accountability
 
 ## Publications
-
-**Workshop Papers**
 
 - **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026.
 
