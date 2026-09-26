@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research Interests
 
-AI in Work and Human Resource Management; Human-AI Collaboration; People Analytics; AI Accountability
+Human–AI Interaction; Human-Centered AI; Agent Evaluation and Accountability; AI in the Workplace
 
 ---
 
@@ -34,7 +34,7 @@ AI in Work and Human Resource Management; Human-AI Collaboration; People Analyti
 
 ## Research Experience
 
-**Accountability in Human-AI Collaboration** · Apr. 2026 – Jul. 2026
+**Accountability in Human–AI Collaboration** · Apr. 2026 – Jul. 2026
 
 - Analyzed 4,664 AI instruction files from 4,485 GitHub repositories; compared 499 instruction–README pairs using LLM-assisted analysis, with 150 CONTRIBUTING–README pairs as a human-facing documentation baseline.
 - Manually validated 323 classifier-flagged items across 60 document pairs; confirmed that 57% of this validation set contained both behavioral constraints and project judgments absent from the corresponding README.
@@ -48,10 +48,11 @@ AI in Work and Human Resource Management; Human-AI Collaboration; People Analyti
 **Shinsegae I&C** · Seoul, Republic of Korea
 <br>HR Specialist, Human Resources Team · Feb. 2022 – Present
 
-- **AI-Supported Workplace Learning:** Co-designed and deployed a new-hire onboarding curriculum combining structured AI tutoring with cohort-based learning (2026 rollout); leading post-deployment evaluation using survey and usage data.
-- **Employee-Centered Systems Design:** Led user-needs analysis for a mobile HR platform serving approximately 1,400 employees; collaborated with engineers on feature priorities, information architecture, and user flows for attendance, leave, and benefits.
-- **Workforce Analytics:** Managed SAP HR data for approximately 1,400 employees across payroll, compensation, attendance, and benefits; conducted workforce cost-structure analyses to inform organizational restructuring.
-- **Industry Interview:** Represented the company in an *HR Insight* feature on employee autonomy and employee-centered work design, including feedback-driven improvements to digital HR systems (Jun. 2026). [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
+- **AI Literacy Assessment System:** Designed a company-wide assessment of employees' ability to use AI effectively and responsibly (2026 rollout; annual for all employees), leading system design with in-house developers from data tables to scoring and results views. Ten 5-point items cover when to use AI, data confidentiality, and reviewing AI-generated code; scores map to A–D grades that managers confirm before use in tailored training and project staffing.
+- **AI-Supported Onboarding:** Co-designed and deployed a new-hire onboarding curriculum combining structured AI tutoring with cohort-based learning (2026 rollout); leading post-deployment evaluation using survey and usage data.
+- **Employee-Facing System Design:** Led end-to-end design of the company's web and mobile HR platform for approximately 1,400 employees (service structure, information architecture, user flows), with engineers handling implementation; unified attendance, payroll, compensation, and training in one view and turned survey-identified usability problems into fixes.
+- **Workforce Analytics:** Managed company-wide SAP HR data and analyzed workforce cost structure to inform restructuring.
+- **Industry Interview:** Featured in an *HR Insight* interview on employee-centered HR system design (Jun. 2026). [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
 **Mercer** · Seoul, Republic of Korea
 <br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
@@ -64,7 +65,7 @@ AI in Work and Human Resource Management; Human-AI Collaboration; People Analyti
 
 | | |
 |---|---|
-| **Research Methods** | Document analysis; manual validation of LLM-assisted coding; survey analysis; user interviews |
+| **Research Methods** | Document analysis; validation of LLM-assisted coding; survey design and analysis; user interviews |
 | **Quantitative Analysis** | Regression analysis; hypothesis testing; compensation benchmarking |
 | **Programming & Data** | Python; SQL; SAP HR data management |
 | **Systems Design** | Requirements analysis; information architecture; user-flow design |
