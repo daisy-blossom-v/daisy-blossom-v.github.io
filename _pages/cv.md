@@ -28,7 +28,7 @@ Human–AI Interaction; Human-Centered AI; Agent Evaluation and Accountability; 
 
 ## Publications
 
-- **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026. [[PDF]]({{ site.baseurl }}/files/Who_Told_the_Agent_What_to_Do.pdf)
+- **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026. [[Paper]]({{ site.baseurl }}/files/Who_Told_the_Agent_What_to_Do.pdf)
 
 ---
 
