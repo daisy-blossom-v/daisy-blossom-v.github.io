@@ -52,7 +52,7 @@ Human–AI Interaction; Human-Centered AI; Agent Evaluation and Accountability; 
 - **AI-Supported Onboarding:** Co-designed and deployed a new-hire onboarding curriculum combining structured AI tutoring with cohort-based learning (2026 rollout); leading post-deployment evaluation using survey and usage data.
 - **Employee-Facing System Design:** Led end-to-end design of the company's web and mobile HR platform for approximately 1,400 employees (service structure, information architecture, user flows), with engineers handling implementation; unified attendance, payroll, compensation, and training in one view and turned survey-identified usability problems into fixes.
 - **Workforce Analytics:** Managed company-wide SAP HR data and analyzed workforce cost structure to inform restructuring.
-- **Industry Interview:** Featured in an *HR Insight* interview on employee-centered HR system design (Jun. 2026). [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
+- **Industry Interview:** Featured in an *HR Insight* interview on employee-centered HR system design (Jun. 2026). [[Article]](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
 **Mercer** · Seoul, Republic of Korea
 <br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020

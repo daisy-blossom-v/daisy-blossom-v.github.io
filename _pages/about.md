@@ -18,7 +18,7 @@ I work across the methods this kind of question demands — survey and interview
 ## News
 
 - **Aug. 2026** — Our workshop paper, *"Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review,"* was accepted to the **"Nobody Did This"** workshop at CSCW 2026.
-- **Jun. 2026** — Interviewed by *HR Insight* on employee-centered HR system design. [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
+- **Jun. 2026** — Interviewed by *HR Insight* on employee-centered HR system design. [[Article]](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
 ## Research Interests
 
@@ -49,7 +49,7 @@ I work across the methods this kind of question demands — survey and interview
 - **AI-Supported Onboarding:** Co-designed and deployed a new-hire onboarding curriculum combining structured AI tutoring with cohort-based learning (2026 rollout); leading post-deployment evaluation using survey and usage data.
 - **Employee-Centered Systems Design:** Led end-to-end design of the company's web and mobile HR platform for approximately 1,400 employees — service structure, information architecture, and user flows — with engineers handling implementation. Attendance, payroll, compensation, and training programs are visible in one view, and usability problems surfaced through employee surveys were turned into design fixes.
 - **Workforce Analytics:** Managed company-wide SAP HR data and analyzed workforce cost structure to inform organizational restructuring.
-- **Industry Interview:** Featured in an *HR Insight* interview on employee-centered HR system design (Jun. 2026). [Article](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
+- **Industry Interview:** Featured in an *HR Insight* interview on employee-centered HR system design (Jun. 2026). [[Article]](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
 **Mercer** · Seoul, Republic of Korea
 <br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
