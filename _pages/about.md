@@ -17,7 +17,7 @@ I work across the methods this kind of question demands — survey and interview
 
 ## News
 
-- **Aug. 2026** — Our workshop paper, *"Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review,"* was accepted to the **"Nobody Did This"** workshop at CSCW 2026.
+- **Aug. 2026** — Our workshop paper, *"Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review,"* was accepted to the "Nobody Did This" workshop at **CSCW 2026**.
 - **Jun. 2026** — Interviewed by *HR Insight* on employee-centered HR system design. [[Article]](https://m.hrinsight.co.kr/view/view.asp?in_cate=114&bi_pidx=39212)
 
 ## Research Interests
@@ -29,7 +29,7 @@ I work across the methods this kind of question demands — survey and interview
 
 ## Publications
 
-- **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at CSCW 2026. [[Paper]]({{ site.baseurl }}/files/Who_Told_the_Agent_What_to_Do.pdf)
+- **Harin Lee** and Donghyun Sohn. 2026. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at **CSCW 2026**. [[Paper]]({{ site.baseurl }}/files/Who_Told_the_Agent_What_to_Do.pdf)
 
 ## Research Experience
 
