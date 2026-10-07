@@ -29,7 +29,7 @@ I work across the methods this kind of question demands — survey and interview
 
 ## Publications
 
-- **Harin Lee** and Donghyun Sohn. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at **CSCW 2026**. [[Paper]]({{ site.baseurl }}/files/Who_Told_the_Agent_What_to_Do.pdf)
+- **Harin Lee** and Donghyun Sohn. "Who Told the Agent What to Do? AI Instruction Files and Accountability Before Code Review." *"Nobody Did This": Contribution, Originality, and Accountability in Agent-Mediated Collaboration*, workshop at **CSCW 2026**. [[Paper]]({{ site.baseurl }}/files/Who_Told_the_Agent_What_to_Do.pdf) [[Code]](https://github.com/daisy-blossom-v/who-told-the-agent)
 
 ## Research Experience
 
