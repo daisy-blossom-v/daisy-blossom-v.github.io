@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research Interests
 
-Human–AI Interaction; Human-Centered AI; Agent Evaluation and Accountability; AI in the Workplace
+Human–AI Interaction; Human-Centered AI; AI-Assisted Decision-Making; AI in Economic and Business Contexts; AI Evaluation and Accountability
 
 ---
 

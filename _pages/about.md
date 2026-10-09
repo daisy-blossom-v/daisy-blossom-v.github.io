@@ -24,8 +24,9 @@ I work across the methods this kind of question demands — survey and interview
 
 - Human–AI Interaction
 - Human-Centered AI
-- Agent Evaluation and Accountability
-- AI in the Workplace
+- AI-Assisted Decision-Making
+- AI in Economic and Business Contexts
+- AI Evaluation and Accountability
 
 ## Publications
 
