@@ -42,7 +42,7 @@ I work across the methods this kind of question demands — survey and interview
 - Discussed implications for contribution attribution and employee performance evaluation, emphasizing selective visibility of instruction context rather than workplace surveillance.
 
 **Wine Informatics and Supply Chain Traceability** · Sep. 2026 – Present
-<br>Research Assistant with Prof. Paul Moon Sub Choi, Ewha Womans University
+<br>Research Assistant to Prof. Paul Moon Sub Choi, Ewha Womans University
 
 - Examined the evidence and assumptions behind a wine-tokenization platform's economic claims, clarifying the comparisons and costs needed for evaluation and the roles of sensor data and human verification.
 - Research assistance acknowledged in Lee, J., Choi, P.M.S., 2026. OrganicSmart, Inc.: The convergence of wine supply chain and distributed ledger technology. In: *Enological Advances* (in progress). Springer, Berlin.
